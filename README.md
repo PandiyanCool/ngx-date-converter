@@ -1,5 +1,7 @@
 # NgxDateConverter [Not yet complete - Under development]
 
+Npm package link: https://www.npmjs.com/package/ngx-date-converter
+
 NgxDateConverter is a angular pipe which is used to transform your date into various formats
 
 ## Current Support
