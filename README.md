@@ -1,4 +1,4 @@
-# NgxDateConverter
+# NgxDateConverter [Not yet complete - Under development]
 
 NgxDateConverter is a angular pipe which is used to transform your date into various formats
 
