@@ -67,6 +67,8 @@ To lint all `*.ts` files:
 $ npm run lint
 ```
 
+https://stackblitz.com/edit/ngx-date-converter-iso?file=src%2Fapp%2Fapp.component.html
+
 ## License
 
 MIT © [Pandiyan](mailto:pandiyanit7@gmail.com)
