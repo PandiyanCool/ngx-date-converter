@@ -33,7 +33,7 @@ export class SampleModule {
   static forRoot(): ModuleWithProviders {
     return {
       ngModule: SampleModule,
-      providers: [SampleService]
+      providers: [SampleService, SamplePipe]
     };
   }
 }
