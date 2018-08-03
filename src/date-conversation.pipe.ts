@@ -15,7 +15,7 @@ export class DateConversionPipe implements PipeTransform {
             return value.toISOString();
         }
 
-        return '';
+        return value;
     }
 
 }
