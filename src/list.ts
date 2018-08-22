@@ -1,9 +1,11 @@
 let sports = [
     'cricket',
-    'kabadi'
+    'kabadi',
+    'football'
 ];
 
 let vehicle = [
     'car',
     'bus',
+    'bicycle',
 ];
